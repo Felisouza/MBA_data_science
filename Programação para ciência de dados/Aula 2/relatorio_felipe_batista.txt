@@ -1,0 +1,25 @@
+# Referências
+- Atribuição de variáveis para um endereço do memória.
+
+# Operações em elementos tipo sequências
+- Operações em listas ou strings
+	- '+' para contatenar elementos em uma sequência
+	- 'in' funçõa built-in para verificar um valor em uma sequência 
+- Operações em listas
+	- 'append' -> inserir um novo elemento no final da lista
+	- 'insert' -> inserir um elemento na posição indicada
+	- 'extend' -> concatenar mais de uma lista
+
+# Comprehensions
+- É uma forma concisa de construir sequências de forma mais eficiente
+- Utilizado para criar listas, dicionários e conjuntos. 
+- Uma maneira mais eficaz de escrever loops for com menos código.
+
+# Funções e parâmetros
+- Uma função é um bloco de código designado para realizar uma tarefa específica. E iniciado pelo comando 'def' e as instruções a serem executadas vem identadas abaixo.
+- Os parâmetros ou argumentos podem assumir o valor default da função ou serem preenchidos depois para serem utilizados no próprio código
+
+# Funções lambda
+- São funções que não possuem nome
+- São funções simples que podem ser criadas sem a necessidade do def
+- São, computacionalmente, mais eficazes que uma função.
